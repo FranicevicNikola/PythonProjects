@@ -3887,3 +3887,52 @@ Unable to read VR Path Registry from /Users/Nikola/Library/Application Support/O
 1591865219985	Marionette	INFO	Stopped listening on port 56997
 1591865221119	Marionette	INFO	Stopped listening on port 57142
 1591865222208	Marionette	INFO	Stopped listening on port 57239
+1595827427512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/zppr_yd51b59911xxksm4r2h0000gn/T/rust_mozprofile7bqKl6"
+1595827431312	Marionette	INFO	Listening on port 55332
+1595827431374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595827462085	Marionette	INFO	Stopped listening on port 55332
+1595827462555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/zppr_yd51b59911xxksm4r2h0000gn/T/rust_mozprofilenCidk4"
+1595827465267	Marionette	INFO	Listening on port 55419
+1595827465371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595827522384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/zppr_yd51b59911xxksm4r2h0000gn/T/rust_mozprofile8nPTqM"
+1595827525450	Marionette	INFO	Listening on port 55505
+1595827525514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827526894	Marionette	INFO	Stopped listening on port 55419
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from /Users/Nikola/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1595839633290	Marionette	INFO	Stopped listening on port 55505
+1595840556443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/zppr_yd51b59911xxksm4r2h0000gn/T/rust_mozprofileM7KsAG"
+1595840560278	Marionette	INFO	Listening on port 58993
+1595840560314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595840568686	Marionette	INFO	Stopped listening on port 58993
+1595840580895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/zppr_yd51b59911xxksm4r2h0000gn/T/rust_mozprofile9Jugyq"
+1595840583521	Marionette	INFO	Listening on port 59090
+1595840583596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from /Users/Nikola/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1595840760224	Marionette	INFO	Stopped listening on port 59090
+1595840790061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/zppr_yd51b59911xxksm4r2h0000gn/T/rust_mozprofileGU1CZg"
+1595840792758	Marionette	INFO	Listening on port 59203
+1595840792852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from /Users/Nikola/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

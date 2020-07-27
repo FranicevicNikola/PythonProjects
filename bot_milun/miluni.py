@@ -19,8 +19,8 @@ main_window = driver.current_window_handle
 def cookies():
     WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
         (By.XPATH, '//*[@id="cookie_action_close_header"]'))).click()
-    WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
-        (By.XPATH, '//*[@id="onesignal-popover-allow-button"]'))).click()
+    #WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
+    #   (By.XPATH, '//*[@id="onesignal-popover-allow-button"]'))).click()
 
 
 def prijava(email, password):
