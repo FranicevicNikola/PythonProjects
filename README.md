@@ -4,7 +4,7 @@ This repository contains my first ever coding projects. All are written in Pytho
 
 ## bot_milun
 
-A simple website bot that uses Selenium. I earned some money and food with this.
+A simple website bot that uses Selenium. I earned some food with this.
 
 ![Alt Text](https://github.com/FranicevicNikola/python_stuff/blob/master/ezgif.com-video-to-gif.gif)
 
@@ -23,5 +23,4 @@ A simple weather app. You enter both your zip and country code then get the weat
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
-
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
